@@ -1,0 +1,36 @@
+.cabecera{
+    text-align: center;
+    background-color: crimson;
+    padding: 2px;
+    margin-left: 22%;
+    margin-right: 22%;
+}
+.photo{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.faker{
+    border-radius: 50%;
+}
+.description{
+    background-color: crimson;
+    padding: 2px;
+    margin-left: 22%;
+    margin-right: 22%;
+
+}.title{
+    margin: 5%;
+    text-align: center;
+}
+.information{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.listado{
+    font-weight: 700;
+}
+.hyperlink{
+    
+    text-align: center;
+}
