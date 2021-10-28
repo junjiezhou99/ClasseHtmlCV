@@ -1,0 +1,25 @@
+p {
+    font: 1em arial, helvetica, sans-serif;
+    width: 780px;
+}
+.medium{
+    font-size:40px;
+}
+.big{
+    font-size: 60px;
+}
+.down{
+    vertical-align: bottom;
+}
+.mid{
+    vertical-align:super;
+}
+.boo{
+    vertical-align: top;
+    color:green;
+    font-size: 12px;
+}
+.text_size > p{
+    font-size: 25px;
+    line-height: 30%;
+}
